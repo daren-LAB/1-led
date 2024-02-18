@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/gpioled/gpioled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/gpioled/gpioled.ko /home/moosa/linuxtest/driver/gpioled/gpioled.o /home/moosa/linuxtest/driver/gpioled/gpioled.mod.o
