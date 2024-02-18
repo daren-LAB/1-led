@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/13-misc/miscplatform.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/13-misc/miscplatform.ko /home/moosa/linuxtest/driver/13-misc/miscplatform.o /home/moosa/linuxtest/driver/13-misc/miscplatform.mod.o

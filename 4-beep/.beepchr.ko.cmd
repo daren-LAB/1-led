@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/4-beep/beepchr.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/4-beep/beepchr.ko /home/moosa/linuxtest/driver/4-beep/beepchr.o /home/moosa/linuxtest/driver/4-beep/beepchr.mod.o

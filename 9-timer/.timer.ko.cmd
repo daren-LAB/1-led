@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/9-timer/timer.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/9-timer/timer.ko /home/moosa/linuxtest/driver/9-timer/timer.o /home/moosa/linuxtest/driver/9-timer/timer.mod.o

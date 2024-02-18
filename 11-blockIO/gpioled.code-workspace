@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"of_gpio.h": "c",
+			"typeinfo": "c",
+			"cstdio": "c",
+			"type_traits": "c"
+		}
+	}
+}

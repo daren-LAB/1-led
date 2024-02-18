@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/17-spi/spitest.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/17-spi/spitest.ko /home/moosa/linuxtest/driver/17-spi/spitest.o /home/moosa/linuxtest/driver/17-spi/spitest.mod.o

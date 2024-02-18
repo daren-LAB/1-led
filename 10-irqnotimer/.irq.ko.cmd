@@ -1,0 +1,1 @@
+cmd_/home/moosa/linuxtest/driver/10-irqnotimer/irq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/moosa/linuxtest/driver/10-irqnotimer/irq.ko /home/moosa/linuxtest/driver/10-irqnotimer/irq.o /home/moosa/linuxtest/driver/10-irqnotimer/irq.mod.o

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"of_gpio.h": "c",
+			"rwreg.h": "c",
+			"uaccess.h": "c",
+			"map.h": "c"
+		}
+	}
+}
